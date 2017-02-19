@@ -40,7 +40,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 You can use the [editor on GitHub](https://github.com/IanDrummond/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-###Contact Information:
+###Contact Information
+
+p: +1.440.364.2707
+e: iandrummond@me.com
+
 [Facebook](https://github.com/IanDrummond/web/edit/master/README.md)
 
 [Twitter](https://twitter.com/iandrummond)
+
+[Instagram](https://twitter.com/iandrummond)
