@@ -42,8 +42,8 @@ You can use the [editor on GitHub](https://github.com/IanDrummond/web/edit/maste
 
 ###Contact Information
 
-p: +1.440.364.2707
-e: iandrummond@me.com
+<p>p: +1.440.364.2707</p>
+<p>e: iandrummond@me.com</p>
 
 [Facebook](https://github.com/IanDrummond/web/edit/master/README.md)
 
